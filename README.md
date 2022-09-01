@@ -7,3 +7,5 @@ Kelas   : PBP A
 Hobi    : Bermain Bola!, Bermain game
 
 Asal Kota : Bandung
+
+Makanan Favorit : Pizza
